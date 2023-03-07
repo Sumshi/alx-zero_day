@@ -1,1 +1,1 @@
-my second readme
+coding is amazing
